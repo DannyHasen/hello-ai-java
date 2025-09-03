@@ -8,5 +8,6 @@ public class App {
     public static void main(String[] args) {
         int n = (args.length > 0) ? Integer.parseInt(args[0]) : 10;
         System.out.println("fib(" + n + ") = " + fib(n));
+        System.out.println("Second commit test!");
     }
 }
