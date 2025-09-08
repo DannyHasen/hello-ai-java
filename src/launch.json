@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Fibonacci",
+      "request": "launch",
+      "mainClass": "App",
+      "args": ["10"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
